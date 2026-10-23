@@ -1,6 +1,7 @@
 # Crypto Risk and Return, 2021 to 2026
 
-Dashboard page 1.PNG
+![Dashboard page 1](Screenshots/Dashboard%20page%201.PNG)
+
 I work in digital marketing, where I spent years building performance reports. That is how I got interested in analysis. This is my second portfolio project, and it is about a question I find interesting: **does taking more risk in crypto actually pay more?**
 
 I looked at seven coins (Bitcoin, BNB, Cardano, Dogecoin, Ethereum, Solana, XRP) using daily prices from Yahoo Finance, January 2021 to October 2026. I did the work in Python, SQL, Excel and Power BI, using each tool for the part it suits.
