@@ -1,7 +1,6 @@
 # Crypto Risk and Return, 2021 to 2026
 
-![Dashboard page 1](screenshots/dashboard_page1.png)
-
+![Dashboard page 1](Screenshots/Dashboard%20page%201.png)
 I work in digital marketing, where I spent years building performance reports. That is how I got interested in analysis. This is my second portfolio project, and it is about a question I find interesting: **does taking more risk in crypto actually pay more?**
 
 I looked at seven coins (Bitcoin, BNB, Cardano, Dogecoin, Ethereum, Solana, XRP) using daily prices from Yahoo Finance, January 2021 to October 2026. I did the work in Python, SQL, Excel and Power BI, using each tool for the part it suits.
@@ -13,7 +12,7 @@ I looked at seven coins (Bitcoin, BNB, Cardano, Dogecoin, Ethereum, Solana, XRP)
 - **Bitcoin was the calmest coin** (about 57% volatility, about 20% CAGR).
 - **Most coins moved together.** Bitcoin and Ethereum were the closest pair (0.81 correlation on daily returns). Dogecoin moved most on its own, with correlations of 0.25 to 0.40 against the others.
 - **Correlations changed over time.** The 90-day rolling correlation with Bitcoin was more spread out in 2021 and 2022, and mostly sat between 0.6 and 0.9 in 2025 and 2026.
-
+![Dashboard page 2](Screenshots/Dashboard%20page%202.png)
 ## How I built it
 
 1. **Python (Google Colab):** downloaded daily prices from Yahoo Finance, calculated returns, 30-day rolling volatility, the correlation between coins and the 90-day rolling correlation with Bitcoin. Exported the results as CSV files.
