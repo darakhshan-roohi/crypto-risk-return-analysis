@@ -13,7 +13,8 @@ I looked at seven coins (Bitcoin, BNB, Cardano, Dogecoin, Ethereum, Solana, XRP)
 - **Bitcoin was the calmest coin** (about 57% volatility, about 20% CAGR).
 - **Most coins moved together.** Bitcoin and Ethereum were the closest pair (0.81 correlation on daily returns). Dogecoin moved most on its own, with correlations of 0.25 to 0.40 against the others.
 - **Correlations changed over time.** The 90-day rolling correlation with Bitcoin was more spread out in 2021 and 2022, and mostly sat between 0.6 and 0.9 in 2025 and 2026.
-![Dashboard page 2](Screenshots/Dashboard%20page%202.png)
+
+![Dashboard page 2](Dashboard%20page%202.PNG)![Dashboard page 2](Dashboard%20page%202.PNG)
 
 ## How I built it
 
