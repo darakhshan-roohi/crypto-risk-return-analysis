@@ -1,6 +1,6 @@
 # Crypto Risk and Return, 2021 to 2026
 
-![Dashboard page 1](Screenshots/Dashboard%20page%201.PNG)
+![Dashboard page 1](Dashboard%20page%201.PNG)
 
 I work in digital marketing, where I spent years building performance reports. That is how I got interested in analysis. This is my second portfolio project, and it is about a question I find interesting: **does taking more risk in crypto actually pay more?**
 
